@@ -344,3 +344,10 @@ Encrypted daily database backups, with a copy kept off the machine, and a health
 ---
 
 <sub>Built by [Nugraha Labib Mujaddid](https://github.com/nugrahalabib). This page describes a private codebase; questions about the product or a demo are welcome at [nugrahalabib@gmail.com](mailto:nugrahalabib@gmail.com).</sub>
+
+## Related
+
+- [Spead AI Pro for WIKA EPCC](https://github.com/nugrahalabib/spead-pro-wika-showcase)
+- [HC Platform for WIKA EPCC](https://github.com/nugrahalabib/wika-hc-platform-showcase)
+- [AgentBuff](https://github.com/nugrahalabib/agentbuff-showcase)
+- [All my work on GitHub](https://github.com/nugrahalabib)
